@@ -28,6 +28,14 @@ All model choices were made with 5-fold cross-validation on training data; the t
 
 ![Feature importance](images/feature_importance.png)
 
+## Interactive dashboard
+
+[![Tableau dashboard](images/tableau_dashboard.jpg)](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Heart_Disease_Dashboard_17935487309820/HeartDisease)
+
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Heart_Disease_Dashboard_17935487309820/HeartDisease)**
+
+The packaged workbook is [`dashboard/Heart_Disease_Dashboard.twbx`](dashboard/Heart_Disease_Dashboard.twbx). [`dashboard/export_dashboard_data.py`](dashboard/export_dashboard_data.py) rebuilds the dashboard tables in `dashboard/data/` from this project's data and code.
+
 ## Methods
 
 - Cleaning: hidden missing values (`?`) handled; 0–4 diagnosis scale converted to a binary target

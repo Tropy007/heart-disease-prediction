@@ -1,0 +1,7 @@
+metric,value
+Patients,303
+Disease prevalence,45.9%
+k-NN accuracy,86.8%
+Recall,0.86
+ROC-AUC,0.95
+Asymptomatic disease rate,72.9%

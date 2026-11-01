@@ -1,0 +1,7 @@
+Group,Value
+Tuned k-NN · Accuracy,0.8684
+Tuned k-NN · Recall,0.8571
+Tuned k-NN · ROC-AUC,0.9491
+Logistic regression · Accuracy,0.8553
+Logistic regression · Recall,0.8571
+Logistic regression · ROC-AUC,0.9373
